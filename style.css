@@ -1,0 +1,35 @@
+body{background-color: #7800C2}
+
+img{display: block;
+	margin: auto;
+	}
+
+h1{color: #BEB1C7;
+	font-family: Brush Script MT;
+	font-size: 75px;
+	text-align: center;
+}
+
+p{color: #BEB1C7}
+
+
+ul{list-style-type: none;
+	margin: 0;
+	padding: 0; 
+	overflow:hidden;}
+
+ul li {float:left;}
+
+li a {display:block;
+	 color:#BEB1C7;
+	 padding: 8px 20px;
+	 text-decoration: none;
+	 text-align: center;
+	 font-family: Courier;
+	 font-size: 15px;
+	 border-width: 3px;
+	}
+
+ ul li a:hover {background-color: black}
+
+
